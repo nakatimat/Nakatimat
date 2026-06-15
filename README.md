@@ -56,6 +56,52 @@
 </div>
 
 ---
+
+<h2 align="center">🎮 NakeDev</h2>
+
+<div align="center">
+  <p>
+    Fundador da <strong><a href="https://github.com/NakeDev-Org" target="_blank">NakeDev</a></strong>, uma organização onde concentro o desenvolvimento de ferramentas e jogos. 
+  </p>
+  <p>
+    Desenvolvi um <strong><a href="https://github.com/NakeDev-Org/About-Us" target="_blank">framework privado</a></strong> altamente otimizado para a criação rápida e eficiente de novos jogos, consolidando boas práticas e arquitetura reutilizável.
+  </p>
+  <p>
+    🌐 Visite o site oficial: <strong><a href="https://nakedevstudio.com.br/" target="_blank">nakedevstudio.com.br</a></strong>
+  </p>
+</div>
+
+<br>
+
+<h3 align="center">🕹️ Portfólio de Jogos</h3>
+<p align="center"><em>Espaço reservado para demonstrar os jogos desenvolvidos. Os GIFs serão exibidos lado a lado.</em></p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33.33%">
+        <h3>🥇 PROJETO DE FACULDADE</h3>
+        <p><strong>✨ Destaque ✨</strong></p>
+        <!-- SUBSTITUA O LINK ABAIXO PELO GIF DO SEU PROJETO DE FACULDADE -->
+        <img src="https://placehold.co/400x250/210038/00eaff?text=GIF+Projeto+Faculdade" alt="Projeto de Faculdade" width="100%" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>🎮 Jogo Indie 02</h3>
+        <p>Em desenvolvimento</p>
+        <!-- SUBSTITUA O LINK ABAIXO PELO GIF DO SEU JOGO 2 -->
+        <img src="https://placehold.co/400x250/210038/646CFF?text=GIF+Jogo+02" alt="Jogo 2" width="100%" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>🕹️ Jogo Indie 03</h3>
+        <p>Em desenvolvimento</p>
+        <!-- SUBSTITUA O LINK ABAIXO PELO GIF DO SEU JOGO 3 -->
+        <img src="https://placehold.co/400x250/210038/646CFF?text=GIF+Jogo+03" alt="Jogo 3" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 <h2 align="center">💻 Tech Stack </h2>
 
 <div align="center">
